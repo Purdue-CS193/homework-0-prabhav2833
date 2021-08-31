@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-`Hi my name is Prabhav`
+
 
 # Header 1
 ## Header 2
@@ -18,6 +18,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+- **Hi my name is Prabhav**
 
 1. Numbered
 2. List
